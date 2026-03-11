@@ -1,0 +1,125 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180684"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "существование и последствия взаимно несовместимых взглядов, позиций или интересов"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "конфликт"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240126"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "агрессивное преследование членов коллектива"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "травля"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q159334"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "организация, в которой предоставляется среднее образование"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "средняя школа"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48282"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учащийся высшего, среднего или начального учебного заведения"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "ученик"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q491"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "позитивные бескорыстные личные взаимоотношения"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "дружба"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "передача, обмен информацией"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "общение"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q37226"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "человек, обучающий других людей"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "учитель"
+        }
+      }
+    ]
+  }
+}
