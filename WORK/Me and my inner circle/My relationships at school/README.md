@@ -91,7 +91,7 @@ SELECT ?source ?sourceLabel ?property ?propertyLabel ?target ?targetLabel WHERE 
 
 Данный запрос позволяет найти прямые связи между выбранными сущностями в базе знаний Wikidata.
 
-Результат выполнения запроса был сохранён в файле: [data/wikidata_export_contact.json](data\wikidata_export_contact.jпшson)
+Результат выполнения запроса был сохранён в файле: [data/wikidata_export_contact.json](data\wikidata_export_contact.json)
 
 ## Процесс работы
 
