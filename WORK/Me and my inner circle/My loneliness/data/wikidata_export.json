@@ -1,0 +1,195 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "description"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q223270"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "внутреннее состояние человека в отсутствие близких"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "одиночество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309406"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отсутствие эмоциональных проявлений, вялость и безразличие"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "апатия"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q545365"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "снижение или потеря способности испытывать удовольствие"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Ангедония"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q908826"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "жизнь в одиночку"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "неженатый"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1096367"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "состояние человека"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "пустота"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1778765"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "отсутствие возможности присоединиться к обществу"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "социальная изоляция"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4340209"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "психическое расстройство, характеризующееся сниженным настроением"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "депрессия"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6010868"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "нахождение субъекта вне общества"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "одиночество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19192957"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "стихотворение Блока"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Одиночество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19192960"
+        },
+        "description": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "стихотворение Гумилёва"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Одиночество"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q545825"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Отчуждение"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1910993"
+        },
+        "itemLabel": {
+          "xml:lang": "ru",
+          "type": "literal",
+          "value": "Желтушник (человек)"
+        }
+      }
+    ]
+  }
+}
