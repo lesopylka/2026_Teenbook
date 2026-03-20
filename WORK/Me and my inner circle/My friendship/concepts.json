@@ -1,16 +1,16 @@
 {
   "concepts": [
     {
-      "name": "Класс: тусовка или случайные люди",
-      "file": "school_class.md"
+      "name": "Сколько друзей нужно для счастья?",
+      "file": "friendship_count.md"
     },
     {
-      "name": "Учителя: любимые и не очень",
-      "file": "teachers.md"
+      "name": "Дружба в онлайне — это настоящая дружба?",
+      "file": "online_friendship.md"
     },
     {
-      "name": "Школьная иерархия: популярные, изгои, середняки",
-      "file": "school_hierarchy.md"
+      "name": "Что делать, если друг \"отбился\" или нашел другую компанию",
+      "file": "friends_offense.md"
     }
   ]
 }
