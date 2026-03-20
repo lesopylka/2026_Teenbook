@@ -1,0 +1,102 @@
+{
+  "targets": [
+    {
+      "concept": "учитель",
+      "file": "WEB/Me_and_my_inner_circle/My_relationships_at_school/concepts/teachers.md",
+      "aliases": ["учитель", "учителя", "учителю", "учителем", "учителе", "учителей"]
+    },
+    {
+      "concept": "конфликт",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/fight_or_talk.md",
+      "aliases": ["конфликт", "конфликта", "конфликту", "конфликтом", "конфликте", "конфликты"]
+    },
+    {
+      "concept": "ссора",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/parent_conflict.md",
+      "aliases": ["ссора", "ссоры", "ссоре", "ссору", "ссорой", "ссоры"]
+    },
+    {
+      "concept": "примирение",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/making_up.md",
+      "aliases": ["примирение", "примирения", "примирению", "примирением", "примирении"]
+    },
+    {
+      "concept": "социальная сеть",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/online_conflicts.md",
+      "aliases": [
+        "социальная сеть",
+        "социальной сети",
+        "социальную сеть",
+        "социальные сети",
+        "социальных сетях",
+        "в соцсетях",
+        "соцсети"
+      ]
+    },
+    {
+      "concept": "дружба",
+      "file": "WEB/Me_and_my_inner_circle/My_friendship/concepts/online_friendship.md",
+      "aliases": ["дружба", "дружбы", "дружбе", "дружбу", "дружбой"]
+    },
+    {
+      "concept": "доверие",
+      "file": "WEB/Me_and_my_inner_circle/My_friendship/concepts/friendship_count.md",
+      "aliases": ["доверие", "доверия", "доверию", "доверием", "доверии"]
+    },
+    {
+      "concept": "одиночество",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/loneliness.md",
+      "aliases": ["одиночество", "одиночества", "одиночеству", "одиночеством", "одиночестве"]
+    },
+    {
+      "concept": "уединение",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/social_isolation.md",
+      "aliases": ["уединение", "уединения", "уединению", "уединением", "уединении"]
+    },
+    {
+      "concept": "интроверт",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/social_connection.md",
+      "aliases": ["интроверт", "интроверта", "интроверту", "интровертом", "интроверте"]
+    },
+    {
+      "concept": "семья",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/parents.md",
+      "aliases": ["семья", "семьи", "семье", "семью", "семьей"]
+    },
+    {
+      "concept": "родители",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/parents.md",
+      "aliases": ["родители", "родителей", "родителям", "родителями", "родителях"]
+    },
+    {
+      "concept": "братья и сестры",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/brothers_and_sisters.md",
+      "aliases": ["братья", "сестры", "брат", "сестра"]
+    },
+    {
+      "concept": "развод",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/divorce.md",
+      "aliases": ["развод", "развода", "разводу", "разводом", "разводе"]
+    },
+    {
+      "concept": "семейные традиции",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/family_traditions.md",
+      "aliases": ["семейные традиции", "традиции", "традиция"]
+    },
+    {
+      "concept": "школа",
+      "file": "WEB/Me_and_my_inner_circle/My_relationships_at_school/concepts/school_class.md",
+      "aliases": ["школа", "школы", "школе", "школу", "школой"]
+    },
+    {
+      "concept": "класс",
+      "file": "WEB/Me_and_my_inner_circle/My_relationships_at_school/concepts/school_class.md",
+      "aliases": ["класс", "класса", "классу", "классом", "классе"]
+    },
+    {
+      "concept": "иерархия",
+      "file": "WEB/Me_and_my_inner_circle/My_relationships_at_school/concepts/school_hierarchy.md",
+      "aliases": ["иерархия", "иерархии", "иерархию", "иерархией"]
+    }
+  ]
+}

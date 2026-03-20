@@ -1,0 +1,159 @@
+{
+  "concepts": [
+    {
+      "name": "На кого я равняюсь и почему",
+      "file": "WEB/Me_and_my_inner_circle/My_authorities/concepts/role_models.md",
+      "section": "My_authorities",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_authorities/concepts.json"
+    },
+    {
+      "name": "Блогеры как кумиры — в чем опасность",
+      "file": "WEB/Me_and_my_inner_circle/My_authorities/concepts/bloggers_as_idols.md",
+      "section": "My_authorities",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_authorities/concepts.json"
+    },
+    {
+      "name": "Учителя, которые вдохновляют",
+      "file": "WEB/Me_and_my_inner_circle/My_authorities/concepts/inspiring_teachers.md",
+      "section": "My_authorities",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_authorities/concepts.json"
+    },
+    {
+      "name": "Когда авторитеты подводят (кумир оказался плохим)",
+      "file": "WEB/Me_and_my_inner_circle/My_authorities/concepts/failed_role_models.md",
+      "section": "My_authorities",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_authorities/concepts.json"
+    },
+    {
+      "name": "Как не потерять себя в подражании",
+      "file": "WEB/Me_and_my_inner_circle/My_authorities/concepts/keeping_your_identity.md",
+      "section": "My_authorities",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_authorities/concepts.json"
+    },
+
+    {
+      "name": "Ссора с родителями: как не наломать дров",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/parent_conflict.md",
+      "section": "My_conflicts_and_arguments",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts.json"
+    },
+    {
+      "name": "Драться или говорить?",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/fight_or_talk.md",
+      "section": "My_conflicts_and_arguments",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts.json"
+    },
+    {
+      "name": "Как мириться, когда гордость мешает",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/making_up.md",
+      "section": "My_conflicts_and_arguments",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts.json"
+    },
+    {
+      "name": "Конфликты в соцсетях: стоит ли ввязываться",
+      "file": "WEB/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts/online_conflicts.md",
+      "section": "My_conflicts_and_arguments",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_conflicts_and_arguments/concepts.json"
+    },
+
+    {
+      "name": "Как просить у родителей то, что реально нужно",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/ask_for_something.md",
+      "section": "My_family",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_family/concepts.json"
+    },
+    {
+      "name": "Братья/сестры — враги или союзники",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/brothers_and_sisters.md",
+      "section": "My_family",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_family/concepts.json"
+    },
+    {
+      "name": "Если в семье развод или конфликты",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/divorce.md",
+      "section": "My_family",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_family/concepts.json"
+    },
+    {
+      "name": "Семейные традиции — это скучно или важно",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/family_traditions.md",
+      "section": "My_family",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_family/concepts.json"
+    },
+    {
+      "name": "Мои отношения с семьей: почему родители бесят и как с этим жить",
+      "file": "WEB/Me_and_my_inner_circle/My_family/concepts/parents.md",
+      "section": "My_family",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_family/concepts.json"
+    },
+
+    {
+      "name": "Сколько друзей нужно для счастья?",
+      "file": "WEB/Me_and_my_inner_circle/My_friendship/concepts/friendship_count.md",
+      "section": "My_friendship",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_friendship/concepts.json"
+    },
+    {
+      "name": "Дружба в онлайне — это настоящая дружба?",
+      "file": "WEB/Me_and_my_inner_circle/My_friendship/concepts/online_friendship.md",
+      "section": "My_friendship",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_friendship/concepts.json"
+    },
+    {
+      "name": "Что делать, если друг \"отбился\" или нашел другую компанию",
+      "file": "WEB/Me_and_my_inner_circle/My_friendship/concepts/friends_offense.md",
+      "section": "My_friendship",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_friendship/concepts.json"
+    },
+
+    {
+      "name": "Почему иногда хочется спрятаться от всех",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/loneliness.md",
+      "section": "My_loneliness",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_loneliness/concepts.json"
+    },
+    {
+      "name": "Одиночество и уединение — в чем разница",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/social_isolation.md",
+      "section": "My_loneliness",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_loneliness/concepts.json"
+    },
+    {
+      "name": "Что делать, если не с кем поговорить",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/alienation.md",
+      "section": "My_loneliness",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_loneliness/concepts.json"
+    },
+    {
+      "name": "Никто не понимает — это правда или кажется",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/distress.md",
+      "section": "My_loneliness",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_loneliness/concepts.json"
+    },
+    {
+      "name": "Как находить контакт, когда ты интроверт",
+      "file": "WEB/Me_and_my_inner_circle/My_loneliness/concepts/social_connection.md",
+      "section": "My_loneliness",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_loneliness/concepts.json"
+    },
+
+    {
+      "name": "Класс: тусовка или случайные люди",
+      "file": "WEB/Me_and_my_inner_circle/My_relationships_at_school/concepts/school_class.md",
+      "section": "My_relationships_at_school",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_relationships_at_school/concepts.json"
+    },
+    {
+      "name": "Учителя: любимые и не очень",
+      "file": "WEB/Me_and_my_inner_circle/My_relationships_at_school/concepts/teachers.md",
+      "section": "My_relationships_at_school",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_relationships_at_school/concepts.json"
+    },
+    {
+      "name": "Школьная иерархия: популярные, изгои, середняки",
+      "file": "WEB/Me_and_my_inner_circle/My_relationships_at_school/concepts/school_hierarchy.md",
+      "section": "My_relationships_at_school",
+      "work_concepts_file": "WORK/Me_and_my_inner_circle/My_relationships_at_school/concepts.json"
+    }
+  ]
+}

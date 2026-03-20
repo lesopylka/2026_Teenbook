@@ -1,0 +1,127 @@
+@startuml
+skinparam linetype ortho
+skinparam rectangle {
+  RoundCorner 20
+}
+
+' === Центральная сущность ===
+rectangle "Подросток" as Teen
+
+' === Авторитеты ===
+rectangle "Авторитет" as Authority
+rectangle "Учитель" as Teacher
+rectangle "Блогер" as Blogger
+rectangle "Социальные сети" as SocialMedia
+rectangle "Подражание" as Imitation
+rectangle "Ценности" as Values
+rectangle "Личность" as Personality
+rectangle "Репутация" as Reputation
+rectangle "Доверие" as Trust
+rectangle "Разочарование" as Disappointment
+rectangle "Вдохновение" as Inspiration
+
+' === Конфликты ===
+rectangle "Родитель" as Parent
+rectangle "Конфликт" as Conflict
+rectangle "Ссора" as Quarrel
+rectangle "Агрессия" as Aggression
+rectangle "Примирение" as Reconciliation
+rectangle "Прощение" as Forgiveness
+rectangle "Гордость" as Pride
+rectangle "Эмпатия" as Empathy
+
+' === Семья ===
+rectangle "Брат/сестра" as Sibling
+rectangle "Развод" as Divorce
+rectangle "Границы" as Boundaries
+rectangle "Традиции" as Traditions
+rectangle "Просьба" as Request
+
+' === Дружба ===
+rectangle "Дружба" as Friendship
+rectangle "Привязанность" as Attachment
+rectangle "Предательство" as Betrayal
+
+' === Одиночество ===
+rectangle "Одиночество" as Loneliness
+rectangle "Социальная изоляция" as Isolation
+rectangle "Социальная связь" as Connection
+rectangle "Отчуждение" as Alienation
+rectangle "Дистресс" as Distress
+rectangle "Поддержка" as Support
+rectangle "Самооценка" as SelfEsteem
+
+' === Школа ===
+rectangle "Школа" as School
+rectangle "Ученик" as Student
+rectangle "Общение" as Communication
+rectangle "Травля" as Bullying
+
+' ================================
+' 🔗 СВЯЗИ
+' ================================
+
+' --- Авторитеты ---
+Teen --> Authority : ищет
+Authority --> Teen : влияет
+Authority --> Imitation : становится примером
+Teacher --> Authority : может быть
+Teacher --> Inspiration : дает
+Blogger --> Authority : может быть
+Blogger --> SocialMedia : действует в
+SocialMedia --> Teen : влияет
+Imitation --> Values : формирует
+Values --> Personality : формируют
+Reputation --> Trust : влияет
+Authority --> Disappointment : может вызвать
+Disappointment --> Values : пересматривает
+
+' --- Конфликты ---
+Teen --> Parent : взаимодействует
+Teen --> Communication : участвует
+Communication --> Conflict : приводит к
+Conflict --> Quarrel : проявляется как
+Conflict --> Aggression : вызывает
+Conflict --> Reconciliation : решается через
+Reconciliation --> Forgiveness : включает
+Pride --> Reconciliation : мешает
+Empathy --> Reconciliation : помогает
+SocialMedia --> Conflict : среда
+
+' --- Семья ---
+Parent --> Teen : влияет
+Sibling --> Teen : взаимодействует
+Divorce --> Conflict : усиливает
+Divorce --> Teen : влияет
+Boundaries --> Conflict : регулируют
+Request --> Parent : направлена к
+Traditions --> Teen : поддерживают
+
+' --- Дружба ---
+Friendship --> Trust : основана на
+Friendship --> Attachment : выражается в
+Friendship --> SocialMedia : формирует
+Friendship --> Loneliness : противоположность
+Trust --> Betrayal : нарушается при
+Attachment --> Conflict : может привести к
+Conflict --> Betrayal : может вызвать
+
+' --- Одиночество ---
+Loneliness --> Isolation : связано с
+Loneliness --> Distress : вызывает
+Loneliness --> SelfEsteem : снижает
+Connection --> Loneliness : противоположность
+Friendship --> Loneliness : снижает
+Support --> Loneliness : уменьшает
+Empathy --> Support : способствует
+Alienation --> Loneliness : усиливает
+
+' --- Школа ---
+School --> Student : включает
+Teacher --> Student : обучает
+Student --> Communication : участвует
+Communication --> Friendship : приводит к
+Communication --> Conflict : приводит к
+Conflict --> Bullying : может перерасти в
+
+@enduml
